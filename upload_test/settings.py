@@ -29,7 +29,7 @@ USE_TZ = True
 # See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '#u#)s5#zw+#w9%*9^hfs151s*pslb*15s1-ow9dxfl3!(mw^ko'
+SECRET_KEY = 'SECRET_KEY'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
